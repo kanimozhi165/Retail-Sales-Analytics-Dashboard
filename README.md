@@ -6,11 +6,11 @@ An end-to-end **Data Analytics** project that analyzes retail sales data using *
 
 # 📷 Dashboard Preview
 
-## Main Dashboard
+## 📊 Main Dashboard
 
 ![Retail Sales Dashboard](Images/Dashboard.png)
 
-## Filtered Dashboard
+## 📈 Filtered Dashboard
 
 ![Filtered Dashboard](Images/Dashboard_Filtered.png)
 
